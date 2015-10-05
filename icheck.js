@@ -119,7 +119,7 @@
           offset = -area + '%',
           size = 100 + (area * 2) + '%',
           layer = {
-            position: 'absolute',
+            position: 'relative',
             top: offset,
             left: offset,
             display: 'block',
